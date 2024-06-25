@@ -4,7 +4,8 @@
 - 👨‍💻 All of my projects are available at **[here][github]**
 - 📝 I regulary write articles on **[my blog][blog]**
 - 📫 How to reach me **sonijaynil4@gmail.com**
-- 👻 **npx** Jaynil Soni
+- 👻 **npx** Jaynil
+- 🕴️ Get my **[Resume][resume]**
 
 ## 😎 Connect with me
 
@@ -124,3 +125,4 @@ Dockerfile               4 repos             █░░░░░░░░░░�
 [instagram]: https://www.instagram.com/_jaynilsoni_/?hl=en
 [linkedin]: https://www.linkedin.com/in/jaynil-soni/
 [github]: https://github.com/JAYNILSONI
+[resume]: https://drive.google.com/file/d/1WIW6D3rlszKGcBYT-dGRrs4uAE4BhWKS/view?usp=drive_link
