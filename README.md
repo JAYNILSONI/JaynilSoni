@@ -29,96 +29,12 @@
 | Service Mesh       | ![Istio](https://img.shields.io/badge/Istio-566aa5?style=for-the-badge&logo=istio&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Other              | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-## ✨ Card
 
-<details>
-  <summary> :zap: Expand me</summary>
-
-![Imgur](https://i.imgur.com/SC6Rt8F.jpg)
-
-</details>
 
 ## 🚀 Github Stats
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<details>
-  <summary> :zap: Expand me</summary>
-
-![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C946%20hrs%209%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-142.4%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 537.1 kB Used in GitHub's Storage 
- > 
-> 🏆 576 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 63 Public Repositories 
- > 
-> 🔑 19 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                17933 commits       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-🌆 Daytime                37241 commits       █████████░░░░░░░░░░░░░░░░   37.74 % 
-🌃 Evening                38024 commits       ██████████░░░░░░░░░░░░░░░   38.53 % 
-🌙 Night                  5487 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   13562 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Tuesday                  20090 commits       █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-Wednesday                14176 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Thursday                 12017 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Friday                   29752 commits       ████████░░░░░░░░░░░░░░░░░   30.15 % 
-Saturday                 4665 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Sunday                   4423 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Terraform                3 hrs 35 mins       ██████████████░░░░░░░░░░░   56.09 % 
-YAML                     2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.87 % 
-Bash                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 23 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      6 hrs 23 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Go                       14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-HCL                      12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Dockerfile               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-```
-
-
-
-
- Last Updated on 24/06/2024 19:13:25 UTC
-<!--END_SECTION:waka-->
-
-</details>
 
 
 [blog]: https://medium.com/@sonijaynil4
